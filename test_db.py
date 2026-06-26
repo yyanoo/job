@@ -1,3 +1,5 @@
+###python flask 後端測試 db 用判斷是否output 有資料 需要在 wsl 環境進行測試 如flask後端 本身是需要使用 linux來進行部署測試
+
 import importlib
 import inspect
 import pkgutil
